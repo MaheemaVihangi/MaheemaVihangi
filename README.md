@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maheema Vihangi</h1>
-<h3 align="center">I am a SE undergraduate student of NIBM Srilanka</h3>
+<h3 align="center">Undergraduate student of NIBM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheemavihangi&label=Profile%20views&color=0e75b6&style=flat" alt="maheemavihangi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheemavihangi" alt="maheemavihangi" /></a> </p>
 
 - 📫 How to reach me **maheemavihagi@gmail.com**
 
