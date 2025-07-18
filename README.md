@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maheema Vihangi</h1>
 <h3 align="center">Undergraduate student of NIBM</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheemavihangi&label=Profile%20views&color=0e75b6&style=flat" alt="maheemavihangi" /> </p>
+
 - 📫 How to reach me **maheemavihagi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
