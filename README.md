@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maheema Vihangi</h1>
 <h3 align="center">Undergraduate student of NIBM</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheemavihangi" alt="maheemavihangi" /></a> </p>
+
 - 📫 How to reach me **maheemavihagi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
