@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maheema Vihangi</h1>
 <h3 align="center">Undergraduate student of NIBM</h3>
 
-- 📫 How to reach me **maheemavihagi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
